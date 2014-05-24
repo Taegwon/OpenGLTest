@@ -28,6 +28,9 @@
         <activity
             android:name="hjh.opengltest.DoubleBuffering">
         </activity>
+        <activity
+            android:name="hjh.opengltest.ESDoubleBuffering">
+        </activity>
     </application>
 
 </manifest>
